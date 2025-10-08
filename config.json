@@ -1,6 +1,7 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
+    "title":"PushHTML",
+    "subTitle":"hello world",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "needComment":0,
     "GMEEK_VERSION":"last"
 }
